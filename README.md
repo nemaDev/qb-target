@@ -1,4 +1,4 @@
-# qb-target inspired no pixel servers
+# qb-target inspired no pixel servers 5.0.0
 
 ![image](https://user-images.githubusercontent.com/28969108/147346874-185d60c6-70e2-45e4-b9e6-ef99e5d1193e.png)
 
