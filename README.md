@@ -1,3 +1,8 @@
+# qb-target inspired no pixel servers
+
+![image](https://user-images.githubusercontent.com/28969108/147346874-185d60c6-70e2-45e4-b9e6-ef99e5d1193e.png)
+
+
 # qb-target
 
 qb-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead relying on intuitive design to improve player experiences and optimize interaction.
@@ -9,6 +14,8 @@ qb-target is a targeting solution that allows interaction with any predefined en
 * Huge credit to [bt-target](https://github.com/brentN5/bt-target) from brentN5 for making the target a thing!
 
 * Credit to [ms-peds](https://github.com/MiddleSkillz/ms-peds) for allowing me to use their awesome ped spawner inside the target!
+
+* Credit to [qb-target](https://github.com/BerkieBb/qb-target) for the great work and update
 
 ## Dependency
 
